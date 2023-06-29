@@ -6,9 +6,9 @@ This project is a Malaria Detection application built using Flask, a Python web 
 
 1. Clone the repository:
 
-   ```bash
+   
    git clone [https://github.com/nasserml/Malaria-Detection.git](https://github.com/nasserml/Malaria-Detection.git)
-   ```
+   
 
 2. Navigate to the project directory:
 
